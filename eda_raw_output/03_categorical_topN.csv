@@ -1,0 +1,48 @@
+OrderID,count,pct,column,Category,Product,Region
+ORD-20241129-03158,2,0.02,OrderID,,,
+ORD-20230925-09224,2,0.02,OrderID,,,
+ORD-20230630-00135,2,0.02,OrderID,,,
+ORD-20231019-08059,2,0.02,OrderID,,,
+ORD-20230121-00229,2,0.02,OrderID,,,
+ORD-20231114-05533,2,0.02,OrderID,,,
+ORD-20241122-07877,2,0.02,OrderID,,,
+ORD-20230331-07060,2,0.02,OrderID,,,
+ORD-20230202-00526,2,0.02,OrderID,,,
+ORD-20230125-09291,2,0.02,OrderID,,,
+ORD-20240619-03554,2,0.02,OrderID,,,
+ORD-20230705-02916,2,0.02,OrderID,,,
+ORD-20241209-05602,2,0.02,OrderID,,,
+ORD-20230608-00390,2,0.02,OrderID,,,
+ORD-20230901-08838,2,0.02,OrderID,,,
+,2558,25.41,Category,Cómputo,,
+,2558,25.41,Category,Tablet,,
+,2482,24.66,Category,Teléfono,,
+,2468,24.52,Category,Accesorio,,
+,1284,12.76,Product,,Tablet Plus,
+,1270,12.62,Product,,Tablet Mini,
+,901,8.95,Product,,Laptop Pro,
+,863,8.57,Product,,Teléfono X,
+,852,8.46,Product,,Teléfono Z,
+,836,8.31,Product,,Laptop Mini,
+,815,8.1,Product,,Laptop Air,
+,763,7.58,Product,,Teléfono Y,
+,661,6.57,Product,,Mouse,
+,623,6.19,Product,,Cargador,
+,587,5.83,Product,,Audífonos,
+,586,5.82,Product,,Teclado,
+,25,0.25,Product,,,
+,658,6.54,Region,,,Sur
+,651,6.47,Region,,, norte 
+,646,6.42,Region,,,este 
+,644,6.4,Region,,,OESTE 
+,640,6.36,Region,,, oeste
+,638,6.34,Region,,, Sur
+,633,6.29,Region,,,Oeste
+,630,6.26,Region,,,Este
+,629,6.25,Region,,,NORTE 
+,625,6.21,Region,,,Norte
+,622,6.18,Region,,,este
+,611,6.07,Region,,,sur 
+,611,6.07,Region,,,norte
+,610,6.06,Region,,,SUR
+,600,5.96,Region,,,Oeste  

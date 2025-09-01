@@ -1,0 +1,10 @@
+,dtype,missing,missing_pct
+OrderID,object,0,0.0
+OrderDate,datetime64[ns],0,0.0
+Category,object,0,0.0
+Product,object,25,0.25
+Region,object,25,0.25
+Units,int64,0,0.0
+UnitPrice,float64,0,0.0
+UnitCost,float64,0,0.0
+DiscountRate,float64,50,0.5
